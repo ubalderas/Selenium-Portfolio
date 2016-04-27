@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Python_exercise/.idea/Python_exercise.iml" filepath="$PROJECT_DIR$/../Python_exercise/.idea/Python_exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Selenium-Portfolio.iml" filepath="$PROJECT_DIR$/.idea/Selenium-Portfolio.iml" />
     </modules>
   </component>
